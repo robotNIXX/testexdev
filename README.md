@@ -3,7 +3,7 @@
 Полноценное окружение для разработки приложения, состоящее из четырех компонентов:
 
 - **Frontend**: NuxtJS 3
-- **Backend**: Laravel 10
+- **Backend**: Laravel 12
 - **Database**: PostgreSQL 15
 - **Proxy**: Nginx
 
